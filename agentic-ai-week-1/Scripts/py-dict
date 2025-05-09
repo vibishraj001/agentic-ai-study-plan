@@ -1,0 +1,6 @@
+thisdict = {
+   "brand" =  "ford",
+   "model" = " mastang",
+   "year" = 1964
+}
+print(thisdict)
